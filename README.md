@@ -102,7 +102,7 @@ Me chamo Patricia Arantes Martins, tenho 37 anos e sou natural de São Paulo. Gr
 <br/>
 
 ### 📊 Estatísticas
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriciamartins-collab&hide=contribs,prs)
 <p>
   <img 
     align="left" 
@@ -111,7 +111,7 @@ Me chamo Patricia Arantes Martins, tenho 37 anos e sou natural de São Paulo. Gr
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Patriciamartins&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patriciamartins-collab&hide=contribs,prs)
+
 <img 
       align="left" 
       alt="GitHub Stats" 
