@@ -12,7 +12,7 @@ Me chamo Patricia Arantes Martins, tenho 37 anos e sou natural de São Paulo. Gr
             src="https://custom-icon-badges.demolab.com/github/stars/patriciamartins-collab?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Patriciamartins?tab=followers">
+    <a href="https://github.com/Patriciamartins-collab?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
